@@ -1,2 +1,2 @@
 # git_tutorial
-GitHub command line tutorial repository
+Repository for GitHub command line tutorial.
